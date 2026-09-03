@@ -2,7 +2,7 @@ name: Build and deploy to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [main, feature/20260903-optimize]
   workflow_dispatch:
 
 permissions:
