@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="README.md">🇺🇸 English</a>
+</p>
+
 # Turbo Kart Rush
 
 **一款致敬《马力欧卡丁车》的街机卡丁车竞速游戏，完全基于 Three.js 构建。所有模型、纹理、音效和音乐均在加载时通过代码生成，本仓库不包含任何外部资源文件。**
@@ -5,16 +9,16 @@
 整个游戏由五个 Claude Fable 5.1 子代理并行开发完成，仅凭一条指令，无需任何后续提问。
 
 <p align="center">
-  <a href="https://stellarisedward.github.io/turbo-kart-rush/"><img src="docs/screenshots/title.jpg" alt="Turbo Kart Rush 标题画面" width="800"></a>
+  <a href="https://stellarisedward.github.io/turbo-kart-rush/" target="_blank"><img src="docs/screenshots/title.jpg" alt="Turbo Kart Rush 标题画面" width="800"></a>
 </p>
 
 <p align="center">
-  <a href="https://stellarisedward.github.io/turbo-kart-rush/"><strong>▶ 在浏览器中游玩</strong></a>
+  <a href="https://stellarisedward.github.io/turbo-kart-rush/" target="_blank"><strong>▶ 在浏览器中游玩</strong></a>
 </p>
 
 ## 游玩方式
 
-在支持 WebGL2 的桌面浏览器（Chrome、Edge、Firefox 或 Safari）中打开 **https://stellarisedward.github.io/turbo-kart-rush/**。在标题画面点击或按回车键，选择八位赛车手之一，挑选赛道和难度，然后开始比赛。支持键盘和游戏手柄。
+在支持 WebGL2 的桌面浏览器（Chrome、Edge、Firefox 或 Safari）中打开 **[https://stellarisedward.github.io/turbo-kart-rush/](https://stellarisedward.github.io/turbo-kart-rush/)**。在标题画面点击或按回车键，选择八位赛车手之一，挑选赛道和难度，然后开始比赛。支持键盘和游戏手柄。
 
 与七名 AI 赛车手进行三圈竞速。漂移过弯并松开以获得迷你加速。拾取道具箱，发射龟壳、丢香蕉、使用蘑菇，或召唤闪电攻击全场。
 

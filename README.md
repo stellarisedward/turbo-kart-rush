@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="README.zh-CN.md">🇨🇳 中文</a>
+</p>
+
 # Turbo Kart Rush
 
 **An arcade kart racer in the spirit of Mario Kart, built entirely with Three.js. Every mesh, texture, sound effect and music track is generated in code at load time. There are no asset files in this repository.**
@@ -5,16 +9,16 @@
 The whole game was produced by five Claude Fable 5.1 sub-agents working in parallel from a single prompt, without a single follow-up question. The prompt is reproduced below.
 
 <p align="center">
-  <a href="https://bridge-mind.github.io/turbo-kart-rush/"><img src="docs/screenshots/title.jpg" alt="Turbo Kart Rush title screen" width="800"></a>
+  <a href="https://stellarisedward.github.io/turbo-kart-rush/" target="_blank"><img src="docs/screenshots/title.jpg" alt="Turbo Kart Rush title screen" width="800"></a>
 </p>
 
 <p align="center">
-  <a href="https://bridge-mind.github.io/turbo-kart-rush/"><strong>▶ Play it in your browser</strong></a>
+  <a href="https://stellarisedward.github.io/turbo-kart-rush/" target="_blank"><strong>▶ Play it in your browser</strong></a>
 </p>
 
 ## Play
 
-Open **https://bridge-mind.github.io/turbo-kart-rush/** in a desktop browser with WebGL2 (Chrome, Edge, Firefox or Safari). Click or press Enter on the title screen, choose one of eight racers, pick a circuit and difficulty, then Start Race. A keyboard or a gamepad works.
+Open **[https://stellarisedward.github.io/turbo-kart-rush/](https://stellarisedward.github.io/turbo-kart-rush/)** in a desktop browser with WebGL2 (Chrome, Edge, Firefox or Safari). Click or press Enter on the title screen, choose one of eight racers, pick a circuit and difficulty, then Start Race. A keyboard or a gamepad works.
 
 Three laps against seven AI drivers. Drift through corners and release for a mini-turbo. Grab item boxes and fire shells, drop bananas, pop mushrooms, or call down lightning on the field.
 
